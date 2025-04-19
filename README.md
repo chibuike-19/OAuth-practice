@@ -1,4 +1,4 @@
-# OAuth Setup Tutorial Boilerplate
+# OAuth Setup Tutorial
 
 Learning to set up OAuth Authentication within your web application can be daunting. 
 
